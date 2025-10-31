@@ -12,28 +12,28 @@ For many years, I have used Nord as my default colorscheme for all my work and d
 Compline is a homage to Nord, Everforest, and the monotone colorscheme - reducing saturation and building from one tone, stripping everything away that is not essential.
 
 ## Palate:
-  bg: #1a1d21 
-  bg-alt: #22262b 
-  base0: #0f1114 
-  base1: #171a1e 
-  base2: #1f2228 
-  base3: #282c34 
-  base4: #3d424a 
-  base5: #515761 
-  base6: #676d77 
-  base7: #8b919a 
-  base8: #e0dcd4 
-  fg: #f0efeb 
-  fg-alt: #ccc4b4 
-  
-  red: #CDACAC 
-  orange: #ccc4b4 
-  green: #b8c4b8 
-  blue: #b4bcc4 
-  cyan: #b4c0c8 
-  yellow: #d4ccb4 
-  teal: #b4c4bc 
-  dark-cyan: #98a4ac 
+ - bg: #1a1d21 
+ - bg-alt: #22262b 
+ - base0: #0f1114 
+ - base1: #171a1e 
+ - base2: #1f2228 
+ - base3: #282c34 
+ - base4: #3d424a 
+ - base5: #515761 
+ - base6: #676d77 
+ - base7: #8b919a 
+ - base8: #e0dcd4 
+ - fg: #f0efeb 
+ - fg-alt: #ccc4b4 
+ - 
+ - red: #CDACAC 
+ - orange: #ccc4b4 
+ - green: #b8c4b8 
+ - blue: #b4bcc4 
+ - cyan: #b4c0c8 
+ - yellow: #d4ccb4 
+ - teal: #b4c4bc 
+ - dark-cyan: #98a4ac 
 
 ## Finished Themes:
 ### Kitty
