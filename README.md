@@ -88,4 +88,4 @@ Thus this is a homage to Nord, Everforest, and various monotone colorschemes - b
     - Termux (nix-on-droid)
 
 ## Special thanks:
-    [Matthew-K310](https://github.com/Matthew-K310) - for porting compline/lauds to nvim
+[Matthew-K310](https://github.com/Matthew-K310) - for porting compline/lauds to nvim
