@@ -1,0 +1,35 @@
+{
+  "name": "compline",
+  "displayName": "Compline",
+  "description": "Dark and light minimalist color schemes inspired by monastic tradition",
+  "version": "1.0.0",
+  "publisher": "rivethorn",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Compline",
+        "uiTheme": "vs-dark",
+        "path": "./themes/compline-color-theme.json"
+      },
+      {
+        "label": "Lauds",
+        "uiTheme": "vs",
+        "path": "./themes/lauds-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jblais493/compline"
+  },
+  "author": {
+    "name": "Joshua Blais"
+  },
+  "license": "GPL-3.0-only"
+}
